@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TestHelloGold</string>
+
+    <string name="secret">hMQLx8tYxEuzYBtR33RQYgh8R8itHde6</string>
+    <string name="register_api">https://staging.hellogold.com/api/v3/users/register.json</string>
+    <string name="price_api">https://cws.hellogold.com/api/v2/spot_price.json</string>
+
+    <string name="email_label">Email</string>
+    <string name="email_hint">Your email address...</string>
+
+    <string name="pwd_label">Password</string>
+    <string name="pwd_hint">Your password at least 8 charecters...</string>
+
+    <string name="register_txt">Register</string>
+    <string name="refresh_txt">Refresh</string>
+    <string name="buy_txt">Buy</string>
+
+    <string name="loading">Loading...</string>
+
+    <string name="timeLegend">Time</string>
+    <string name="spotPriceLegend">Spot price</string>
+
+
+    <string name="tnc_before">I agree to the </string>
+    <string name="tnc_after"><b> This Software and services Agreement.</b></string>
+
+    <string name="register_model_email">email</string>
+    <string name="register_model_uuid">email</string>
+    <string name="register_model_data">email</string>
+    <string name="register_model_tnc">email</string>
+    <string name="title_activity_landing">LandingActivity</string>
+</resources>
